@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rehan Meer</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt=coding" width="400"src="https://github.com/Rehan-x-Meer/Rehan-x-Meer/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
+<img align="right" alt=coding" width="200"src="https://github.com/Rehan-x-Meer/Rehan-x-Meer/blob/main/Blue%20Futuristic%20Cyberpunk%20Facebook%20Profile%20Picture.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-x-meer&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-x-meer" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.fiverr.com/s/X4N7xV](https://www.fiverr.com/s/X4N7xV)
